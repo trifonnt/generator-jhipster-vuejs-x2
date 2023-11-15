@@ -1,6 +1,6 @@
 {
   "name": "generator-jhipster-vuejs-x2",
-  "version": "1.8.2-a03",
+  "version": "1.8.2-a02",
   "description": "A Vue.js blueprint for JHipster. It will use Vue.js as the frontend library",
   "keywords": [
     "yeoman-generator",
